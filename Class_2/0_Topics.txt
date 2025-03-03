@@ -1,0 +1,30 @@
+Prerequisites : 
+
+1. Operators
+i. Relation operator
+  -> less than (<) , less than or equal (<=)
+  -> greater than (>) , greater than or equal (>=)
+  -> equal to (==) 
+  -> not equal (!=)
+
+ii. Logical operator
+  -> AND (&&)
+  -> OR (||)  
+
+
+2. Conditional Statements
+ - if , else
+ - if else ladder
+
+Problems : i. Check if a number is divisible by X 
+            ii. Number Grading System 
+
+3. Loop
+  i. Why Loop is necessary 
+  ii.for
+  iii. While loop 
+
+Problem: 
+    i. Printing from 1 to N 
+    ii.  Summation from 1 to N. 
+    
