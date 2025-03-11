@@ -1,0 +1,15 @@
+Function:
+1. The necessity 
+
+2. function type based on Parameter and return type 
+
+
+
+Problem Solving: 
+
+1. https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B
+2. https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G
+
+
+
+Overview of CP Exam on 12th March ,2025
